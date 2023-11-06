@@ -4,3 +4,7 @@
 
 
 //this is the first time to use #.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+//first time to use picture
